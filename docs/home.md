@@ -31,7 +31,7 @@
 | II | Transformación de imagen | <li> Transformaciones geométricas. </li> <li> Transformaciones de intensidad. </li> <li> Filtros espaciales de suavizado. </li> | <ol><li>[Código (Live Script)](JESP_02_Transformacion_imagen.ipynb)</li> </ol> |
 | III | Realzado de imagen | <li> Filtros en el dominio de la frecuencia. </li> <li> Operadores morfológicos. </li> <li> Algoritmos morfológicos. </li> | <ol><li>[Código (Live Script)](JESP_03_Realzado_imagen.ipynb)</li> </ol> |
 | IV | Segmentación de imagen | <li> Segmentación por umbralado. </li> <li> Segmentación por watersheds morfológicos. </li> <li> Segmentación de regiones por similitud de píxeles. </li> <li> Segmentación por modelos de contornos activos. </li> <li> Segmentación por modelos corticales. </li> | <ol><li>[Código (Live Script)](JESP_04_Segmentacion_imagen.ipynb)</li> </ol> |
-| V | Aplicaciones en Robótica Móvil | <li> . </li> <li> . </li> <li> . </li> <li> . </li> <li> . </li> | <ol><li>[Código (Live Script)](JESP_04_Segmentacion_imagen.ipynb)</li> </ol> |
+| V | Aplicaciones en Robótica Móvil | <li> . </li> <li> . </li> <li> . </li> <li> . </li> <li> . </li> | <ol><li>[Código (Live Script)](JESP_05_Aplicaciones_VC.ipynb)</li> </ol> |
 
 ## Acreditación del curso
 Tendrán derecho a acreditar aquellas personas que hayan cubierto por lo menos el 80% de asistencia.
