@@ -1,4 +1,4 @@
-# Contenido del curso
+# Visión por Computadora
 
 
 ## Información del académico
@@ -46,4 +46,4 @@ La conducta del profesorado y alumnado del curso será acorde con los principios
 </ol>
 
 
-(Última modificación: 30 de noviembre de 2024)
+(Última modificación: 01 de enero de 2025)
