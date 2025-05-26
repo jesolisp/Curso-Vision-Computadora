@@ -125,8 +125,9 @@ def update_labels(img_tk, binary):
 # Main program starts here
 if __name__ == '__main__':
     min_area = 500
-    url = 'http://192.168.100.9'
+    # url = 'http://192.168.100.9'
     # url = 'http://192.168.100.38:8080/shot.jpg'
+    url = 0
 
     cap = cv2.VideoCapture(url)
 

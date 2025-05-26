@@ -23,16 +23,16 @@ if __name__ == '__main__':
     u = np.zeros(N) #
     u_real = np.zeros(N)
 
-    u = 4*np.cos(0.5*t)+6
+    #u = 4*np.cos(0.5*t)+6
 
     for k in range(N):
         start_time = time.time() # Current time
 
         # Step input
-        # if k*h > 3: # step at 3s
-        #     u[k] = 5  # Step at 40%
-        # else:
-        #     u[k] = 0
+        if k*h > 3: # step at 3s
+            u[k] = 5  # Step at 40%
+        else:
+            u[k] = 0
 
         esp32.write_serial_data(u[k])
 
